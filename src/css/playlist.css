@@ -1,0 +1,9 @@
+.playlist{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+
+.playlist > h5{
+    color: gray;
+    font-weight: 400;
+}

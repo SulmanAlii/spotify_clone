@@ -1,0 +1,10 @@
+.MainContent{
+    display: flex;
+    color: white;
+}
+
+@media(max-width: 500px){
+    .MainContent{
+        display: block;
+    }
+}

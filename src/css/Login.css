@@ -1,0 +1,25 @@
+.login{
+    /* text-align: center; */
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background: black;
+}
+.login > img{
+    width: 60%;
+}
+
+.login > a{
+    padding: 10px;
+    text-decoration: none;
+    border: 1px solid black;
+    background: #199023;
+    border-radius: 99px;
+    color:white;
+    text-align: center;
+    font-weight: 700;
+}
+
+.login > a:hover{
+    background-color: #25772c;
+}
